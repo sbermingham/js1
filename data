@@ -1,0 +1,23 @@
+var data = [{
+      name: 'Toyota',
+      year: '2012',
+      price: '21000',
+      color: 'red'},{
+       name: 'Toyota',
+      year: '2012',
+      price: '21000',
+      color: 'red'},{
+       name: 'Toyota',
+      year: '2012',
+      price: '21000',
+      color: 'red'},{
+       name: 'Toyota',
+      year: '2012',
+      price: '21000',
+      color: 'red'},{
+       name: 'Toyota',
+      year: '2012',
+      price: '21000',
+      color: 'red'}];
+      
+      
